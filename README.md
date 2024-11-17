@@ -1,5 +1,5 @@
 # CS526
 
-Thành viên nhóm
-Võ Thanh Nhàn 22521009
-Đồng Minh Quân
+# Thành viên nhóm
+# Võ Thanh Nhàn 22521009
+# Đồng Minh Quân 22521176
